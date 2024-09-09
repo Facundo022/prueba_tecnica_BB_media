@@ -1,0 +1,962 @@
+[
+    {
+        "titulo": "CSI: Miami",
+        "sinopsis": "En CSI Miami sigue a un equipo de detectives forenses mientras resuelven crímenes en Miami. Liderados por Horatio Caine, el equipo utiliza la ciencia forense para recopilar pruebas y atrapar a los delincuentes.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Pluto TV Cine Estelar",
+        "sinopsis": "Si tu sueño es vivir en Hollywood y no puedes viajar, Pluto TV Cine Estelar tiene la solución para tu problema. Vas a pasar los 365 días del año viendo a las estrellas más grande del cine desde la comodidad de tu casa.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "NCIS",
+        "sinopsis": "NCIS es una serie que sigue a un equipo de agentes especiales del Servicio de Investigación Criminal Naval que investiga crímenes relacionados con la Marina de los Estados Unidos y el Cuerpo de Marines, mientras lidian con sus conflictos personales.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "ITV Deportes",
+        "sinopsis": "En ITV Deportes vas a poder ver los mejores partidos exclusivos de la Liga Mexicana de Béisbol, la Liga Nacional de Baloncesto Profesional, la Liga de Fútbol Americano y programas originales de diversos temas deportivos.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Pluto TV Series de Acción",
+        "sinopsis": "Pluto TV Series de Acción es el canal del maratón perfecto para los que no les gusta mover ni un solo dedo. No necesitas ni reflejos, ni entrenamiento. Muchas series de acción en cuanto te quedas en el sillón descansando. En Pluto TV.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Pluto TV Series de Crimen",
+        "sinopsis": "¡Adéntrate en el oscuro y adictivo universo del crimen! Descubre intrigas, giros inesperados y el suspenso más intenso en nuestras series. Misterios y asesinatos te esperan en las series más impactantes sobre crimen y detectives.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Pluto TV Series de Drama",
+        "sinopsis": "Descubre la profundidad de las emociones humanas con nuestras series dramáticas. Desde conflictos personales hasta pasiones avasalladoras. Prepárate para una montaña rusa emocional que te mantendrá al borde del asiento en cada escena.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Pluto TV Dramas Coreanos Teen",
+        "sinopsis": "Descubre las mejores series coreanas para adolescentes en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos Teen es el lugar ideal donde podrás disfrutar de excelentes series con historias para jóvenes realmente apasionantes.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Baywatch",
+        "sinopsis": "La serie que conquistó el mundo ha llegado a tierra en Pluto TV. Si buscas acción, emoción y correr en cámara lenta, Baywatch siempre está aquí, las 24 horas del día.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Inuyasha",
+        "sinopsis": "Acompaña a InuYasha y sus amigos en el Japón feudal. Juntos luchan contra demonios y desvelan secretos en busca de la Joya de las Cuatro Almas. Vive una aventura épica donde la magia y la amistad se entrelazan.",
+        "categoria": "Destacado"
+    },
+    {
+        "titulo": "Descubriendo Pluto TV",
+        "sinopsis": "Descubriendo Pluto TV",
+        "categoria": "Pluto TV"
+    },
+    {
+        "titulo": "Pluto TV Cine Estelar",
+        "sinopsis": "Si tu sueño es vivir en Hollywood y no puedes viajar, Pluto TV Cine Estelar tiene la solución para tu problema. Vas a pasar los 365 días del año viendo a las estrellas más grande del cine desde la comodidad de tu casa.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Acción",
+        "sinopsis": "Pluto TV Cine Acción es imprescindible. Lo más extremo que se pueda filmar llega hasta tus pupilas para dilatarlas por completo y traspasar la pantalla. Respira hondo y prepárate bien porque serán 24 horas por día de adrenalina.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Estrellas de Acción",
+        "sinopsis": "Donde ponen el ojo ponen la bala, o el puño, o el pie. Los héroes de acción más grandes de todos los tiempos están juntos y en un mismo canal: Pluto TV Estrellas de Acción. Prepárate para pasar 24 horas continuas llenas de adrenalina.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Adrenalina Freezone",
+        "sinopsis": "¡En el canal Pluto TV Adrenalina Freezone puedes ver películas emocionantes! Grandes éxitos de acción, aventura, suspenso y terror. Los grandes nombres de Hollywood 100% gratis para ti. En Pluto TV.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Comedia",
+        "sinopsis": "Si la risa es la mejor medicina, Pluto TV Cine Comedia es la cura para todos tus males. Prepárate para reírte sin parar, mientras disfrutas de las películas de comedia más hilarantes, delirantes y disparatadas de la historia.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Drama",
+        "sinopsis": "Descubre un canal para disfrutar desde melodramas basados en hechos de la vida real hasta las películas con los argumentos de mayor nivel narrativo. Romanticismo, tragedia, pasión. Descubre el drama en todas sus expresiones, en vivo las 24 horas.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Romance",
+        "sinopsis": "Hay personas que creen que el amor todo lo puede y que supera cualquier obstáculo. Ellos se merecían un canal propio. En Pluto TV Cine Romance vas a disfrutar de las películas más entretenidas y románticas, un canal del que te vas a enamorar.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Suspenso",
+        "sinopsis": "Tómalo con calma y muévete sigilosamente, estás viendo Pluto TV Cine Suspenso donde cualquier movimiento en falso podría desatar una situación estremecedora. Asesinos acechando en plena noche y gangsters dispuestos a llevarte al límite de tu asiento.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Crimen",
+        "sinopsis": "En Pluto TV Cine Crimen nadie es inocente. 24 horas de películas en las que los protagonistas solo tienen dos objetivos: Romper la ley y salir impunes. Aquí encontrarás a culpables e inocentes. Quédate para descubrir si el crimen siempre paga.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Terror",
+        "sinopsis": "Visita el único canal con los demonios, monstruos y zombies más aterradores en un solo lugar. Siente cómo las criaturas que no imaginarías ni en tus peores pesadillas persiguen tus talones.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Sci-Fi",
+        "sinopsis": "Desde el espacio exterior llega una señal que transmite las 24hs, todos los días de la semana. Esa señal es Pluto TV SCI-FI. Las mejores películas y series de ciencia ficción y fantasía de la galaxia para explorar los confines del espacio.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Runtime",
+        "sinopsis": "Runtime es un canal en donde podrás disfrutar de las mejores series y películas protagonizadas por los más grandes actores y actrices de Hollywood. Si buscas acción, comedia, suspenso, drama o romance los vas a encontrar en Runtime.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Nuestro Cine",
+        "sinopsis": "Viajar por mundos remotos, a millones de años luz de nuestra galaxia. Enfrentarnos a una amenaza mundial. Volver a revivir la historia. Saltar de un camión en movimiento a otro. Ser un samurai. Un súper héroe. Todo lo que más te gusta del cine.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV A La Mexicana",
+        "sinopsis": "Pluto TV A La Mexicana te acerca a los actores más icónicos de México. Un viaje que empieza por la llamada Época de Oro y llega hasta la actualidad. No te pierdas los mejores géneros y a los actores de cada década, como María Félix, Silvia Pinal, Antonio",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Clásico",
+        "sinopsis": "Vuelve a la era dorada del cine con Pluto TV Cine Clásico. Dramas, comedias, y emocionantes thrillers premiados, protagonizados por tus estrellas de cine favoritas.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Cine Familia",
+        "sinopsis": "Pluto TV Cine Familia es el canal ideal para todos en casa. Tiene los mejores contenidos de Comedia, Animación, Cine de Entretenimiento y hasta Clásicos. Aquí la diversión y el entretenimiento familiar están asegurados todos los días del año.",
+        "categoria": "Películas"
+    },
+    {
+        "titulo": "Pluto TV Series de Crimen",
+        "sinopsis": "¡Adéntrate en el oscuro y adictivo universo del crimen! Descubre intrigas, giros inesperados y el suspenso más intenso en nuestras series. Misterios y asesinatos te esperan en las series más impactantes sobre crimen y detectives.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "CSI: Miami",
+        "sinopsis": "En CSI Miami sigue a un equipo de detectives forenses mientras resuelven crímenes en Miami. Liderados por Horatio Caine, el equipo utiliza la ciencia forense para recopilar pruebas y atrapar a los delincuentes.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "NCIS",
+        "sinopsis": "NCIS es una serie que sigue a un equipo de agentes especiales del Servicio de Investigación Criminal Naval que investiga crímenes relacionados con la Marina de los Estados Unidos y el Cuerpo de Marines, mientras lidian con sus conflictos personales.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Series de Acción",
+        "sinopsis": "Pluto TV Series de Acción es el canal del maratón perfecto para los que no les gusta mover ni un solo dedo. No necesitas ni reflejos, ni entrenamiento. Muchas series de acción en cuanto te quedas en el sillón descansando. En Pluto TV.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Rookie Blue: Policías Novatos",
+        "sinopsis": "Rookie Blue: Policías Novatos es una emocionante serie policial que sigue a jóvenes reclutas en su primer trabajo en la fuerza, enfrentando desafíos tanto en el deber como en sus vidas mientras forjan relaciones y luchan contra crímenes en la ciudad.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Infierno Sobre Ruedas",
+        "sinopsis": "Infierno Sobre Ruedas es una serie ambientada en el Salvaje Oeste que sigue la historia de Cullen Bohannon, quién busca venganza contra los soldados que mataron a su esposa e hijo. No te pierdas esta serie llena de drama y acción.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Series",
+        "sinopsis": "Pluto TV Series es una colección de las mejores series de suspenso y drama de la actualidad. Historias que no te permitirán despegarte de la pantalla y finales sorprendentes que te dejarán con ganas de ver más.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Series de Drama",
+        "sinopsis": "Descubre la profundidad de las emociones humanas con nuestras series dramáticas. Desde conflictos personales hasta pasiones avasalladoras. Prepárate para una montaña rusa emocional que te mantendrá al borde del asiento en cada escena.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Younger",
+        "sinopsis": "¿Estás preparado para un canal entero de episodios de Younger? Diviértete las 24hs con Lisa, una editora experimentada que tiene que parecer más joven para ingresar al mercado laboral y termina, bueno… termina divirtiéndose. Gratis en Pluto Tv.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Dramas Coreanos",
+        "sinopsis": "Descubre los mejores shows de la TV coreana en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos donde podrás sorprenderte viendo excelentes series de ciencia ficción, romance y hasta dramas de época. Todo en Pluto TV Dramas Coreanos.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Dramas Coreanos Teen",
+        "sinopsis": "Descubre las mejores series coreanas para adolescentes en un canal pensado exclusivamente para ti. Pluto TV Dramas Coreanos Teen es el lugar ideal donde podrás disfrutar de excelentes series con historias para jóvenes realmente apasionantes.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Vive Kanal D Drama",
+        "sinopsis": "Vive Kanal D Drama es el lugar donde encontrarás las mejores novelas turcas elegidas especialmente para ti. Prepárate para vivir historias sorprendentes llenas de amor, drama y pasión. Todo por Pluto TV.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV España",
+        "sinopsis": "Las mejores películas y series de España llegan a Pluto TV, y las puedes disfrutar todas juntas en un solo canal: Pluto TV España. Ríete, llora, enamórate y sufre con las mejores ficciones de España.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Series Latinas",
+        "sinopsis": "Las mejores series en español están disponibles 24/7 en Pluto TV Series Latinas para que puedas disfrutarlas en tu idioma. Aquí podrás entretenerte, emocionarte y sorprenderte con éxitos como Nada Personal o La Fiscal de Hierro.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Al Fondo Hay Sitio",
+        "sinopsis": "LOS GONZÁLES, una familia de lo más campechana, llega a una de las zonas más exclusivas de Lima. Pero todo se complica cuando se cruzan con LOS MALDINI, quienes harán lo imposible para deshacerse de ellos.",
+        "categoria": "Series"
+    },
+    {
+        "titulo": "Pluto TV Series Retro",
+        "sinopsis": "En Pluto TV Series Retro vas a poder divertirte y entretenerte con las mejores sitcoms de la historia de la televisión y éxitos clásicos como Who ìs the boss?, The Three Stooges, Popeye the Sailor and Romance of Betty Boop.",
+        "categoria": "Retro"
+    },
+    {
+        "titulo": "MacGyver",
+        "sinopsis": "MacGyver, la popular série de acción y aventuras de los 80 está en PlutoTv. Descubre como su protagonista, resuelve problemas peligrosos utilizando su ingenio y habilidades científicas en lugar de armas.",
+        "categoria": "Retro"
+    },
+    {
+        "titulo": "Baywatch",
+        "sinopsis": "La serie que conquistó el mundo ha llegado a tierra en Pluto TV. Si buscas acción, emoción y correr en cámara lenta, Baywatch siempre está aquí, las 24 horas del día.",
+        "categoria": "Retro"
+    },
+    {
+        "titulo": "Pluto TV Retro Cartoons",
+        "sinopsis": "Pluto TV Retro Cartoons: Enciende la máquina del tiempo y viaja a la época de las mejores animaciones. Vuelve a ser un niño mirando las caricaturas que marcaron tu vida: Popeye, Betty Boop, Flash Gordon y mucho más. Solo en Pluto TV.",
+        "categoria": "Retro"
+    },
+    {
+        "titulo": "Pluto TV Novelas",
+        "sinopsis": "Te ofrecemos el catálogo más completo de novelas en tu idioma, gratis, para verlas cuando quieras y donde quieras. Las novelas que te acompañan a lo largo del tiempo, las memorables. Las que te conmueven. Historias poderosas. Emotivas. Actuales.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Pluto TV Novelas de Mexico",
+        "sinopsis": "Descubre el vibrante universo de las novelas mexicanas. Sumérgete en historias llenas de amor, pasión y drama, donde cada trama te cautivará y te llevará a un viaje emocional inolvidable. Vas a disfrutar de un mundo de emociones y entretenimiento.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Corazón",
+        "sinopsis": "Corazón es el canal de telenovelas que conecta miles de corazones con sus apasionantes historias. Ofrece las mejores historias de amor, drama, comedia y temática juvenil, y mucho más.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Pluto TV Novelas de Colombia",
+        "sinopsis": "Las novelas colombianas son las más reconocidas del mundo y aquí podrás disfrutarlas una y otra vez. Historias llenas de pasión, suspenso y tradiciones únicas que te transportarán a un mundo de emociones intensas y personajes inolvidables.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Sin Tetas No Hay Paraíso",
+        "sinopsis": "En Sin Tetas No Hay Paraíso vas a conocer la historia de Catalina, una joven que cegada por su ambición y las malas influencias, llegará a un paraíso al que jamás desearía haber entrado. Disfruta de toda la serie Gratis, en Pluto TV.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "La Selección",
+        "sinopsis": "La selección cuenta la historia de Faustino Asprilla, Carlos ‘El Pibe’ Valderrama, René Higuita, Freddy Rincón e Iván René Valenciano. Haciendo énfasis en su vida, sus amores, sus familias, y en toda la pasión que los convirtió en héroes del fútbol.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Pluto TV Novelas de Argentina",
+        "sinopsis": "Las fascinantes novelas argentinas están en este canal. Escucha a los protagonistas decir “vos”, en historias llenas de amor, intriga y tradiciones únicas que te llevarán por un viaje inolvidable de emociones y personajes cautivadores.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "Pluto TV Novelas de Venezuela",
+        "sinopsis": "Explora la esencia vibrante de las novelas venezolanas en nuestro canal. Descubre historias llenas de amor, intriga y emociones genuinas que te atraparán desde el primer momento con sus personajes inolvidables y momentos inesperados.",
+        "categoria": "Novelas"
+    },
+    {
+        "titulo": "La Academia",
+        "sinopsis": "Disfruta del reality de música más importante de México, La Academia, donde jóvenes cantantes compiten semana a semana con emocionantes conciertos y críticas en donde el público vota por su alumno favorito.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "Pluto TV Reality",
+        "sinopsis": "Cuando la realidad supera a la ficción, nada mejor que ponerle una cámara y grabarlo. Sumergete en el mundo de los realities las 24 horas del día. Programas creados para que no quieras dejar de verlos. Todo esto en Pluto TV Reality, las 24 horas del día.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Drag",
+        "sinopsis": "Disfruta MTV Drag PlutoTV, con RuPaul como anfitrión e inspiración en RuPaul's Drag Race, lo último en competencias de Drag Queen. Los concursantes drag queens más escandalosas, talentosas y hermosas, todas luchando por el título como la mejor Drag Queen.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Pluto TV",
+        "sinopsis": "Dale Play a la mejor música, los desmadres, las pedas y al romance. MTV, el canal con todo lo que amas, ahora en Pluto TV.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Reality",
+        "sinopsis": "Los reality shows de MTV marcaron una época, manteniendo a generaciones enteras de jóvenes pegadas a la pantalla, con un estilo propio que no puedes dejar de verlos. Aquí, la vida de las personas se convierte en drama y emoción.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Shore",
+        "sinopsis": "Prepárate para vivir de fiesta con MTV Shore. Únete al grupo más descontrolado y disfruta junto a ellos de todas sus aventuras. Vuelve a ver los shows que amas y disfruta también de escenas inéditas. ¿Estás listo? Porque esto se va a desmadrar.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Con Mi Ex",
+        "sinopsis": "MTV Con Mi Ex, el canal que ya trae los grandes clásicos del placer culpable: No Estúdio Com o Ex, De Férias Com o Ex y mucho más. Solo Pluto TV puede ofrecer las 24 horas del día, los 7 días de la semana, lo mejor del humor, peleas y un poco de amor.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Ridiculousness",
+        "sinopsis": "Quien haya hecho una buena broma, sabrá lo que significa MTV Ridiculousness, el canal donde las víctimas y los más bromistas conviven en perfecta armonía mientras miles de testigos no paran de reírse.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Teen Mom",
+        "sinopsis": "Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "MTV Catfish",
+        "sinopsis": "¿Alguna vez conociste a alguien por internet y nunca quiso que lo conocieras en personas? Puede que hayas sido víctima de un catfish. Este programa se especializa en investigar y desenmascarar casos de personas que se hacen pasar por otras.",
+        "categoria": "Reality"
+    },
+    {
+        "titulo": "Pluto TV Competencias",
+        "sinopsis": "Preguntas y respuestas, emociones fuertes y miles de insectos caminando por tu cuerpo. Cultura general, destreza y viseras de animales servidas en bandeja. ¿Qué tanto sabes? ¿Cuanta suerte tienes? ¿que tan valiente eres?",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Iron Chef",
+        "sinopsis": "Disfruta de la más exigente y original competencia de cocina las 24 horas del día en Pluto TV. Contempla como los mejores chefs del mundo se enfrentan en duelos mano a mano a los formidables Iron Chefs.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "MasterChef",
+        "sinopsis": "A todos nos gustan las realidades y los programas de cocina, en MasterChef combinamos los dos. Los mejores chefs se enfrentan entre si y al más exigente jurado intentando llevarse el premio de miles de dólares y el título de MásterChef.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "MasterChef Junior",
+        "sinopsis": "MasterChef Junior es un emocionante y conmovedor programa de cocina que reúne a talentosos y apasionados niños cocineros en una desafiante competencia culinaria, donde demuestran habilidades extraordinarias y muestran su amor por la gastronomía.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Hells Kitchen",
+        "sinopsis": "Un grupo de aspirantes compiten para ser el mejor chef. Para lograrlo, deberán superar las pruebas más difíciles, bajo la atenta mirada del exigente chef Gordon Ramsay. Las cosas se van a poner muy calientes en la cocina de PlutoTv Hells Kitchen.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Minuto Para Ganar",
+        "sinopsis": "En 60 segundos se pueden hacer muy pocas cosas, excepto que sea uno de los participantes de este programa. En PlutoTv Minuto para Ganar, mira a los concursantes intentando superar pruebas de un minuto para poder llevarse miles de dólares.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Boom",
+        "sinopsis": "Un explosivo show de preguntas y respuestas que combina el saber con el suspenso y el drama de las películas de acción. En este juego cada pregunta está representada con una bomba y cada respuesta incorrecta es un cable que deben cortar.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Wipe Out",
+        "sinopsis": "WIPEOUT. La carrera de obstáculos más divertida donde verás las caídas más graciosas de la televisión. Disfruta de una competencia llena de juegos de equilibrio, fuerza, y velocidad en la que los participantes ponen a prueba todas sus destrezas.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Desafío Super Humanos",
+        "sinopsis": "Desafío Super Humanos es un programa que muestra a personas ordinarias superando límites físicos y mentales a través de desafíos extremos y pruebas de resistencia, revelando el extraordinario potencial del cuerpo humano y su capacidad de supervivencia.",
+        "categoria": "Competencia"
+    },
+    {
+        "titulo": "Pluto TV Naturaleza",
+        "sinopsis": "Explora los lugares más impactantes de nuestro planeta. Sumérgete en los más profundos océanos, escala las montañas más altas, recorre impenetrables selvas y vastos desiertos, emprende un viaje infinito con Pluto TV Naturaleza.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Paisajes por Stingray",
+        "sinopsis": "En Pluto TV Paisajes por Stingray desconecta de las complicaciones de tu entorno y conecta con la belleza de la naturaleza. Disfruta en este canal de hermosas vistas de paraísos tropicales e imágenes deslumbrantes acompañadas de una música fondo relajante",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Animales",
+        "sinopsis": "Todas las maravillas que nos regala el mundo animal están en PlutoTV Animales, el canal donde te pueden rugir, ladrar o llenar de ternura para siempre sorprenderte y mejorar tu día. Desde los más salvajes hasta los más amigables: Pluto TV Animales.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "El Encantador de Perros",
+        "sinopsis": "Con una habilidad única para ver el mundo a través de sus ojos, el experto en adiestramiento canino César Millán rehabilita perros conflictivos para solucionar problemas de actitud, tanto de los canes como de los dueños.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Aventura",
+        "sinopsis": "Llega Pluto TV Aventura, la dosis de adrenalina que estabas buscando. Vive a base de pura acción las 24 horas del día, con los mejores programas de cacerías, persecuciones y mucho más. Sólo lo tendrás en Pluto TV Aventura.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Ice Pilots",
+        "sinopsis": "Ice Pilots trata sobre una aerolínea excéntrica y su tripulación que vuela aviones antiguos en imposibles misiones árticas. Buffalo Airways atrae a jóvenes pilotos que buscan aventuras en el Ártico y la oportunidad de volar aviones grandes y antiguos.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Velocidad",
+        "sinopsis": "Pluto TV Velocidad es el canal para los amantes de los autos y la adrenalina. Con una programación dedicada a los fanáticos de los motores, abróchate el cinturón y prepárate para disfrutar de un viaje a toda velocidad.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Franky Mostro",
+        "sinopsis": "Descubre el universo de los motores junto al experto en autos Franky Mostro. Acompáñalo a recorrer el mundo, donde hará pruebas en todos los terrenos posibles, compartirá los mejores consejos sobre manejo, y nos mostrará los más increíbles talleres.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Obsesión por los Autos",
+        "sinopsis": "En \"Obsesión por los autos\", Danny \"The Count\" Koker y su equipo restauran, personalizan y venden autos rápidamente. Míralos luchar por mantener vivir su negocio de Las Vegas Donde queda restauración es una verdadera apuesta.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Mi Coche Clásico",
+        "sinopsis": "Bienvenido al apasionante mundo de los autos clásicos. Descubre la historia, la belleza y la emoción de estos legendarios vehículos a través de exposiciones, restauraciones y viajes. Todo de la mano de Dennis Gage y su particular bigote.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Motorvision TV",
+        "sinopsis": "Motorvision TV es un canal para los amantes de los deportes a motor en todas sus formas. Revive carreras legendarias, admira autos espectaculares y disfruta de toda la acción hasta quedarte sin aliento.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Vida Real",
+        "sinopsis": "El mundo está lleno de dificultades y momentos tensos por enfrentar a diario, y todo queda registrado en Pluto TV Vida Real, un verdadero huracán de misterios médicos, rescates críticos o seguridad fronteriza.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "COPS",
+        "sinopsis": "En COPS acompaña a verdaderos policías mientras patrullan las calles. prepárate para verlos participar de persecuciones a alta velocidad, realizar los arrestos más salvajes y verlos involucrarse en las situaciones más peligrosas.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Dog el cazarrecompensas",
+        "sinopsis": "Los fugitivos ya no están tranquilos porque llega Dog el Cazarrecompensas. 24 horas con las mejores cacerías en busca de los prófugos más peligrosos.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Empeños a lo bestia",
+        "sinopsis": "En este canal pasarás las 24 horas viendo el día a día de una verdadera casa de empeños que lleva más de 3 generaciones haciendo negocios. Pluto TV Empeños a lo bestia, donde el cliente nunca tiene la razón.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Mi Obsesión Favorita",
+        "sinopsis": "¿A quién no le gusta fisgonear en la vida de los demás? Ahora podrás hacerlo y descubrir las manías más extrañas y las colecciones más extravagantes. Mi obsesión favorita es un canal que te permitirá hacer todo y mucho más. Gratis en Pluto TV",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Misterios Medicos",
+        "sinopsis": "En Pluto TV Misterios Médicos conocerás los casos más extraños y las cirugías más impactantes dadas bajo las condiciones más adversas, raras y controversiales.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Misterios",
+        "sinopsis": "Si eres fan de las teorías conspirativas, este canal es para ti. Descubre toda la verdad sobre los secretos mejor guardados en Pluto TV Misterios.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Historias de Ultratumba",
+        "sinopsis": "Hechos espeluznantes al margen de la realidad, puertas que se abren hacia lo desconocido, 24 hrs de experiencias paranormales. Todo esto y mucho más en Historias de Ultratumba, en Pluto TV.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Archivos Extraterrestres",
+        "sinopsis": "Explora los misterios del universo en Archivos Extraterrestres. Únete a nosotros en un viaje fascinante a través de encuentros cercanos, avistamientos y teorías sobre la vida alienígenea. Descubre los secretos más profundos del cosmos en este canal.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Smithsonian Channel Pluto TV",
+        "sinopsis": "En Smithsonian Channel Pluto TV disfrutarás de una muy variada de documentales. Aprenderás sobre cultura, datos científicos e historia. Un canal ideal para esas personas curiosas, que siempre quieren aprender algo nuevo.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Historia",
+        "sinopsis": "El pasado está lleno de acontecimientos que marcan nuestro presente, y para conocerlos a fondo está Pluto TV Historia, la mejor forma de recorrer esos grandes momentos de la humanidad a través de programas y documentales hechos para educar y entretener.",
+        "categoria": "Curiosidad"
+    },
+    {
+        "titulo": "Pluto TV Investiga",
+        "sinopsis": "¿Eres fanático de resolver los hechos más enigmáticos y misteriosos? Naciste para investigar, cuestionas todo, eres detallista y análitico. Todos tenemos algo de detective.",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "Cazador de Homicidas",
+        "sinopsis": "Joe Kenda fue uno de los detectives de homicidio más exitosos. Aquí te contará sobre sus antiguos casos y cómo logró resolverlos para atrapar a los más peligrosos criminales. No te pierdas Cazador de Homicidas, gratis en Pluto TV.",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "Los archivos del FBI",
+        "sinopsis": "Todos los días, a toda hora y en los lugares más variados... hay mucho qué descubrir. Los Archivos del FBI llega con su gran poderío al servicio de la investigación.",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "Archivos Forenses",
+        "sinopsis": "Misterios sin develar, casos que buscan una resolución. Evidencias y entrevistas que ayudan a resolver historias reales, accidentes y hasta enfermedades. Los casos reales más impactantes están en el canal Archivos Forenses.",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "The New Detectives",
+        "sinopsis": "El trabajo de los forenses y expertos más distinguidos en criminalística mundial, reunido en un solo canal. Disfruta de las investigaciones más apasionantes y los casos más renombrados, en The New Detectives",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "Misterios sin Resolver",
+        "sinopsis": "Robert Stack presenta “Misterios sin resolver” la serie que perturbará todos tus sentidos con los casos más espeluznantes y misteriosos de la historia. Disfruta -si puedes- todos los días este canal con 24 hrs continuas de Misterios sin resolver.",
+        "categoria": "Investigación"
+    },
+    {
+        "titulo": "CBS News",
+        "sinopsis": "CBS News, uno de los canales de noticias más prestigiosos llega a Pluto TV. Infórmate sobre todo lo que pasa en el mundo de la mano de los mejores periodistas. Y todo en idioma original. Si quieres estar informado las 24 horas éste es tu canal.",
+        "categoria": "Noticias"
+    },
+    {
+        "titulo": "Euronews Español",
+        "sinopsis": "\"Euronews\" es el único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia. Euronews es “All Voices” (todas las voces).",
+        "categoria": "Noticias"
+    },
+    {
+        "titulo": "TeleFórmula",
+        "sinopsis": "TeleFórmula tiene una programación enfocada en noticias de actualidad, tanto de México como del mundo, finanzas, tecnología y farándula entre muchas cosas más. La mejor forma de estar informado todo el tiempo es mirando TeleFórmula.",
+        "categoria": "Noticias"
+    },
+    {
+        "titulo": "Milenio Televisión",
+        "sinopsis": "Milenio Television, el canal que te mantiene al tanto con la información más relevante y precisa. Con reportajes, análisis y cobertura en tiempo real. Aquí te informas sobre deportes, economía, espectáculos y todo lo que ocurre en la actualidad.",
+        "categoria": "Noticias"
+    },
+    {
+        "titulo": "Pluto TV Deportes",
+        "sinopsis": "La dulce victoria y la amarga derrota conviven aquí, en Pluto TV Deportes. Un canal donde vivirás las emociones más intensas, verás a los mejores atletas, disfrutarás de excelentes análisis y te dejarás atrapar por las entrevistas más interesantes.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "Azteca Deportes Network",
+        "sinopsis": "Azteca Deportes te trae cobertura de eventos, emocionantes transmisiones en vivo y análisis detallado de todos los deportes. Brinda a los fanáticos información sobre todo lo que pasa en el mundo del deporte de la mano de expertos en cada disciplina.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "Claro Sports",
+        "sinopsis": "Disfruta de la mejor cobertura deportiva en Latinoamérica, producciones propias y eventos exclusivos, a través del canal Claro Sports en Pluto TV.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "ITV Deportes",
+        "sinopsis": "En ITV Deportes vas a poder ver los mejores partidos exclusivos de la Liga Mexicana de Béisbol, la Liga Nacional de Baloncesto Profesional, la Liga de Fútbol Americano y programas originales de diversos temas deportivos.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "Pluto TV Peleas",
+        "sinopsis": "Las artes marciales mixtas están en Pluto TV Peleas. Todo el contenido que los fanáticos de las luchas quieren ver. El Combate Américas, Impact Wrestling, Hard Knocks Fighting y los torneos más importantes del circuito en un solo canal. Pluto TV Peleas.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "Lucha Libre AAA",
+        "sinopsis": "¡Mira la lucha mexicana de alto octanaje 24/7 en Lucha Libre AAA! Máscaras de colores, movimientos de alto vuelo y emoción internacional te asaltan con fuerza y rapidez en este canal salvaje y emocionante.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "DAZN Combat",
+        "sinopsis": "DAZN Combat brinda a los fanáticos asientos de primera fila para disfrutar de la mejor acción del boxeo y las MMA, incluidos eventos en vivo, momentos destacados, peleas legendarias de archivo, documentales y más.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "PFL MMA",
+        "sinopsis": "PFL trae el formato más competitivo al MMA, donde cada lucha cuenta de cara al PFL World Championship y su premio de un millón de dólares. Disfruta de las mejores peleas, resúmenes y comentarios sobre MMA con PFL en Pluto TV.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "DAZN Women's Football",
+        "sinopsis": "DAZN Women’s Football ofrece a los fanáticos asientos de primera fila para disfrutar de la mejor acción del fútbol femenino, incluida la UEFA Women’s Champions League en vivo, la Liga F, documentales y mucho más acceso detrás de escena.",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "FIFA+",
+        "sinopsis": "¡Entretenimiento futbolístico para los aficionados! Mira documentales, series originales y partidos selectos en vivo, así como momentos históricos de la Copa Mundial de la FIFA™️, la Copa Mundial de Clubes de la FIFA™️, la Copa Mundial Femenina de la FIFA",
+        "categoria": "Deportes"
+    },
+    {
+        "titulo": "South Park: Celebrities",
+        "sinopsis": "Apariciones y parodias de las mayores estrellas que han aparecido en South Park",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "South Park: Colección Cartman",
+        "sinopsis": "¿Quién es el más manipulador, rencoroso y travieso de South Park? ¡Eric Cartman! Este canal está dedicado a los mejores episodios del \"Chico Malo\" de South Park.",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "South Park: Colección Kenny",
+        "sinopsis": "¿Pero cuántas veces ha muerto Kenny? Este canal está dedicado a los mejores episodios protagonizados por tu personaje favorito de South Park: ¡Kenny!",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "South Park: Colección Kyle",
+        "sinopsis": "Kyle es crítico, inteligente y un poco friki. Este es el canal para aquellos que no se cansan de que el dulce Kyle pierda los estribos (especialmente con Cartman).",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "South Park: Colección Stan",
+        "sinopsis": "¿Eres fan del tranquilo y prudente Stan? Este canal está dedicado a los mejores episodios de tu personaje favorito de South Park: ¡Stan!",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "Comedy Central South Park",
+        "sinopsis": "South Park la icónica serie animada que marcó un antes y un después en la TV, llega a Pluto TV. Para que te rías a carcajadas con Kyle, Stan, Kenny y Cartman. Disfruta de los legendarios episodios que marcaron una era, gratis en Comedy Central South Park.",
+        "categoria": "South Park"
+    },
+    {
+        "titulo": "Daria",
+        "sinopsis": "Daria, la exitosa serie de MTV, ahora está en Pluto TV. Vuelve a ver cómo una chica inteligente y cínica atraviesa la adolescencia como una extraña en un mundo de jóvenes superficiales.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "La Familia del Barrio",
+        "sinopsis": "El exitosísimo dibujo para adultos La familia del barrio está en PlutoTV. Esta familia mexicana se burlará de la realidad con altas dosis de humor negro. Todo puede pasar en esta divertida serie.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "Pluto TV Humor",
+        "sinopsis": "Comienza a despedirte del control remoto, porque con Pluto TV Humor te vas a descontrolar. Las mejores bromas, bloopers y situaciones divertidas en un canal donde el humor explota a cada instante las 24 horas.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "Comedy Central Pluto TV",
+        "sinopsis": "Comedy Central, la marca #1 de comedia en el mundo, también es parte de Pluto TV. Si tienes ganas de reír ya no te quedan excusas. Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duelo de comediantes y mucho más.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "Backdoor",
+        "sinopsis": "En Pluto TV vas a poder disfrutar del canal de Backdoor. Aquí creamos comedia de verdad. Tenemos sketches de situaciones cotidianas y sketches de humor absurdo.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "FailArmy",
+        "sinopsis": "Sumérgete en un mundo de carcajadas, sobresaltos y fallas, fallas y más fallas. La mejor programación con los videos más graciosos del mundo. Una alta dosis de accidentes, bloopers y momentos fallidos que te harán morir de risa, en Fail Army.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "The Pet Collective",
+        "sinopsis": "Animales y mascotas. Ciencia y amor. Emoción y humor. Todo eso y mucho más en The Pet Collective, el canal dedicado a los mejores amigos del planeta. Disfruta de los memes más divertidos y los momentos más emotivos protagonizados por animales.",
+        "categoria": "Comedia"
+    },
+    {
+        "titulo": "PRIDEtv",
+        "sinopsis": "PRIDEtv es el canal de televisión sobre estilo de vida para la comunidad LGBTQI+ con películas de autor galardonadas, documentales cautivadores, series queer, cortometrajes, reality shows y programas de televisión originales. ¡Tu orgullo comienza aquí!",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Teatrix",
+        "sinopsis": "Disfruta de las más cautivadoras, divertidas y emocionantes obras de teatro en la comodidad de tu hogar. Déjate llevar por las brillantes actuaciones, la magia del escenario y las historias que te conmoverán en este canal dedicado al teatro.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Telefe Pluto TV",
+        "sinopsis": "Telefe, el canal número 1 de Argentina llega a Pluto TV con lo mejor de su programación. Para que disfrutes de sus shows más exitosos. Novelas, series, viajes y 4 ediciones en vivo de noticias. Todo en un solo lugar.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Chiquititas",
+        "sinopsis": "Chiquititas la serie que fue un éxito vuelve las 24hs a Pluto TV para vos. Revive la historia del hogar Rincón de Luz y emociónate nuevamente como la primera vez.. Comparte sus sueños, sus canciones, y toda la magia.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Rincón de Luz",
+        "sinopsis": "Rincón de Luz cuenta la historia de un grupo de niños que viven en un hogar de huérfanos. Ellos aprenden a valorar la importancia de la familia, la amistad y la solidaridad a través de la música y las situaciones divertidas que irán viviendo.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Susana Giménez",
+        "sinopsis": "Susana y Pluto TV repasan 30 años de historia. Desde sus sketchs , los talentos freaks, las entrevistas a estrellas conocidas mundialmente, las perlitas y los musicales de artistas nacionales e internacionales junto a los juegos que hicieron historia.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Telefe Hits",
+        "sinopsis": "Telefe Hits es tu destino obligado para encontrar y revivir las telenovelas más populares, los mejores dramas y las comedias románticas más divertidas de Telefe, el canal de televisión abierta líder en audiencia de Argentina.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Azteca Internacional",
+        "sinopsis": "Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Canal 6 CdMX",
+        "sinopsis": "Canal 6 CdMx, el espacio televisivo donde convergen la información precisa, el mejor entretenimiento y los programas más interesantes. Música, entrevistas, información y chimentos conviven en un solo lugar.",
+        "categoria": "Entretenimiento"
+    },
+    {
+        "titulo": "Pluto TV Viajes",
+        "sinopsis": "Los océanos más profundos, las montañas más altas o los destinos inimaginables están en Pluto TV Viajes, tu pasaje al asombro y a todas las emociones que te aguardan conociendo las culturas y los lugares realmente inspiradores de nuestro planeta.",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Pluto TV Hogar",
+        "sinopsis": "No importa donde vivamos, todos siempre soñamos con mudarnos a una casa increíble. En Pluto TV Hogar conocerás las más espectaculares. ¡Vas a querer quedarte a vivir en Pluto TV Hogar!",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Homeful",
+        "sinopsis": "Las caras más conocidas de la renovación de hogares están en este canal. Prepárate para ver renovaciones increíbles y transformaciones sorprendentes. Además, podrás aprender consejos prácticos para aplicar en tu propia casa.",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Pluto TV Cocina",
+        "sinopsis": "Te presentamos Pluto TV Cocina, un canal elaborado para los amantes del buen comer. Recetas creadas con amor, historias fascinantes, delicias exóticas, restaurantes de alta cocina y momentos únicos junto a los más exclusivos y premiados chefs.",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Pluto TV Recetas",
+        "sinopsis": "Si te gusta cocinar, este canal es para ti. En PlutoTv Recetas aprenderás a realizar los más deliciosos y tentadores platos en recetas muy fáciles de seguir. Aprende nuevas técnicas y secretos para deslumbrar a todos, con los manjares más espectaculares.",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Tastemade",
+        "sinopsis": "Un canal con contenido premium de comida, viajes, hogar y diseño de todo el mundo. Vas a poder disfrutar desde los documentales más originales hasta las recetas más clásicas las 24 horas del día, los 7 días de la semana.",
+        "categoria": "Estilo de Vida"
+    },
+    {
+        "titulo": "Pluto TV Anime",
+        "sinopsis": "La mejor animación oriental está en Pluto TV Anime. Con historias adultas, atrapantes y divertidas, acompañadas por una animación de excelente calidad. Descubre nuevas series o vuelve a ver los clásicos de los que te enamoraste.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Pluto TV Animé Acción",
+        "sinopsis": "Es hora de que el público más grande tenga su recompensa: PLUTO TV ANIME ACCIÓN, el canal para los que quieren revivir los clásicos favoritos del Dark Animé como Death Note, Naruto y Bleach. A prepararse porque la acción de estas historias comienza aquí.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Naruto",
+        "sinopsis": "Acompaña a Naruto en sus increíbles aventuras camino a convertirse en el gran Hokage de su aldea. Gratis para ti un canal donde las 24 horas están dedicadas al mítico ninja. Disfruta de Naruto en Pluto TV.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Naruto Shippuden",
+        "sinopsis": "Naruto Shippuden, una emocionante y épica serie de anime que sigue la evolución del valiente ninja Naruto mientras lucha por proteger a sus seres queridos y superar sus propios demonios internos.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Boruto: Naruto Next Generations",
+        "sinopsis": "Boruto, hijo del legendario Naruto, es un ninja con un espíritu rebelde. Ansioso por trazar su propio camino en un mundo shinobi moderno, enfrenta desafíos que van más allá de su linaje.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Hunter x Hunter",
+        "sinopsis": "Entra al fascinante mundo de Hunter x Hunter. Descubre los misterios, aventuras y poderes extraordinarios mientras exploramos la magia de este anime épico. ¡Únete a la caza y vive la intensidad de cada momento!",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Death Note",
+        "sinopsis": "Light Yagami es un estudiante sobresaliente con un futuro brillante que, sin embargo, se muere de aburrimiento. Pero su vida dará un vuelco el día que encuentre el poderoso cuaderno que dejó caer un travieso dios de la muerte Shinigami.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Yu-Gi-Oh",
+        "sinopsis": "Un misterioso rompecabezas va a cambiar para siempre la vida de Yugi y lo llevará a un mundo repleto de magia, secretos y enfrentamientos. YU-GI-OH llegó a PlutoTV. Para que lo disfrutes todo el día.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Captain Tsubasa",
+        "sinopsis": "Captain Tsubasa sigue la historia de Tsubasa, un joven futbolista que persigue sus sueños con pasión y determinación, enfrentando desafíos y demostrando habilidades asombrosas en el campo de juego. Una aventura que cautivará a los fans del fútbol",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Beyblade",
+        "sinopsis": "El popular anime Beyblade está en Pluto TV. Acompaña a Tyson y su equipo, los Bladebreakers, en su lucha por convertirse en los mejores bey-luchadores del mundo. Ellos representarán a su país en el mundial de Beyblade ¿podrán lograrlo?",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Inuyasha",
+        "sinopsis": "Acompaña a InuYasha y sus amigos en el Japón feudal. Juntos luchan contra demonios y desvelan secretos en busca de la Joya de las Cuatro Almas. Vive una aventura épica donde la magia y la amistad se entrelazan.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "One Piece",
+        "sinopsis": "One Piece, un canal para disfrutar las fascinantes historias de piratas y amistad, donde un grupo de aventureros viaja a través de los océanos y se unen para lograr una misión: Encontrar el mayor de los tesoros. Disfrútalo en Pluto TV.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Tokusato",
+        "sinopsis": "Para los nostálgicos de los grandes clásicos de acción y aventura japonés. Heroes y villanos, en las icónicas series japonesas que marcaron historia. Hazte fan de Tokusato, en Pluto TV.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Pluto TV E-Sports",
+        "sinopsis": "Pluto TV E-Sports te muestra todo lo que quieres saber del mundo del gaming. Con tutoriales, críticas, análisis, noticias y shows dedicados a los juegos más grandes del momento, y a los hits del pasado.",
+        "categoria": "Anime & Gaming"
+    },
+    {
+        "titulo": "Nick Teen",
+        "sinopsis": "Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.",
+        "categoria": "Teen"
+    },
+    {
+        "titulo": "Nickelodeon iCarly",
+        "sinopsis": "Cuando Carly crea su show de internet llamado Icarly se vuelve famosa de la noche a la mañana. Con ayuda de sus amigos y su excéntrico hermano deberá aprender a lidiar con su fama mientras prepara nuevos episodios de su popular show.",
+        "categoria": "Teen"
+    },
+    {
+        "titulo": "Kenan y Kel",
+        "sinopsis": "Kenan sueña con hacerse rico y para eso siempre pide la ayuda de Kel. Pero en lugar de ayudarlo, él siempre complica las cosas. En este canal disfruta de las alocadas aventuras de Kenan y Kel.",
+        "categoria": "Teen"
+    },
+    {
+        "titulo": "Pluto TV Teen",
+        "sinopsis": "A los adolescentes no les gusta pasar tiempo con adultos, ellos sólo quieren estar con chicos de su edad. Por es en Pluto TV Teen tenemos las mejores series pensadas para adolescentes y protagonizadas por…adolescentes.",
+        "categoria": "Teen"
+    },
+    {
+        "titulo": "PAW Patrol Patrulla de Cachorros",
+        "sinopsis": "Únete a la Patrulla Canina en sus emocionantes misiones de rescate, donde estos valientes cachorros liderados por Ryder usan su ingenio, habilidades y trabajo en equipo para proteger a la comunidad, enseñando valiosas lecciones de amistad.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Nick Jr. Club",
+        "sinopsis": "Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Dora, La Exploradora",
+        "sinopsis": "¡Acompaña a Dora y su mono Botas en emocionantes aventuras! Explora un mundo lleno de diversión y aprendizaje mientras la ayudas a resolver misterios y rompecabezas. ¡Únete a la diversión con Dora la Exploradora!",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Las Pistas de Blue",
+        "sinopsis": "¡Blue tiene mucha energía y quiere jugar contigo! Por eso Pluto TV Pistas de Blue tiene una programación especial con la perrita azul que divierte a las personas de todos los tamaños y edades. Música, juegos y mucha aventura con Blue y sus amigos.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Baby Shark TV",
+        "sinopsis": "Baby Shark es un canal donde tu hijo podrá bailar, divertirse y aprender. Los más pequeños van a disfrutar de canciones de cuna y lecciones sobre hábitos saludables, letras, colores y mucho más. Todo en Baby Shark, gratis en Pluto tv.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Babyfirst",
+        "sinopsis": "Los primeros pasos de tu bebé son más seguros y divertidos con BabyFirst, el canal donde tus hijos aprenden lo básico mediante juegos, colores, números, arte, música y muchas actividades para disfrutar en familia.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Pluto TV Junior",
+        "sinopsis": "La diversión completa está en Pluto TV Junior, donde te esperan todas las aventuras de las series animadas y de acción en vivo, en un canal exclusivamente hecho para pasarla increíble en cualquier momento del día.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Barney",
+        "sinopsis": "En su mundo se vuela sin alas, porque la imaginación es el recurso más poderoso. Barney y sus amigos te llevarán a descubrir que la fantasía está esperando en mil aventuras y experiencias llenas de diversión, ¡y no te puedes quedar fuera!",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "El Reino Infantil",
+        "sinopsis": "El Reino Infantil es el canal donde los más pequeños de la casa podrán disfrutar de las mejores canciones, así como de sus personajes favoritos, todo esto las 24hrs del día.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Nickelodeon Clásico",
+        "sinopsis": "Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en Nickelodeon Clásico.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Rugrats",
+        "sinopsis": "La amistad, los sueños y las ganas de seguir descubriendo el mundo en Rugrats.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Nickelodeon Rocket Power",
+        "sinopsis": "En Nickelodeon Rocket Power te divertirás con las aventuras de cuatro amigos amantes de la acción y los deportes extremos. Las 24 horas, todos los días. ¡Justo lo que necesitas para divertirte con Rocket Power!",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Nickelodeon Pluto TV",
+        "sinopsis": "¡Ahora puedes tener tardes llenas de risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Bob Esponja Pantalones Cuadrados",
+        "sinopsis": "Bob Esponja y todos sus amigos llegaron a Pluto TV. Para que te diviertas con todas sus aventuras. Un canal dedicado exclusivamente a la esponja más famosa de la televisión para que lo disfrutes las 24 horas del día.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Los Padrinos Mágicos",
+        "sinopsis": "Timmy es un chico común y corriente. Hasta que un día aparecen sus padrinos mágicos y su vida cambiará completamente. Cosmo y Wanda lo ayudarán con la tarea, a enfrentarse a la malvada niñera y juntos vivirán increíbles aventuras.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Las Tortugas Ninja",
+        "sinopsis": "Cuatro tortugas mutantes fanáticas de la pizza, entrenadas por su maestro ninja, surgirán de las alcantarillas para combatir el crimen y proteger a la ciudad de Manhattan de todo tipo de amenazas.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Pluto TV Kids",
+        "sinopsis": "Todos tienen su espacio de fiesta en Pluto TV Kids. No importa si eres un niño o un niño de corazón, porque la mejor programación para toda la familia está aquí. Ingresa y disfruta las 24 horas, los 7 días de la semana.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Pluto TV Anime Kids",
+        "sinopsis": "En Pluto TV Anime Kids encontrarás los mejores animes que divertirán a grandes y chicos. Disfruta de Yu-Gi-Oh!, Bakugan, GGO Football y muchísimos más las 24 horas los 365 días del año. La mejor animación de oriente está en este canal.",
+        "categoria": "Kids"
+    },
+    {
+        "titulo": "Babyfirst",
+        "sinopsis": "Los primeros pasos de tu bebé son más seguros y divertidos con BabyFirst, el canal donde tus hijos aprenden lo básico mediante juegos, colores, números, arte, música y muchas actividades para disfrutar en familia.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Pluto TV Junior",
+        "sinopsis": "La diversión completa está en Pluto TV Junior, donde te esperan todas las aventuras de las series animadas y de acción en vivo, en un canal exclusivamente hecho para pasarla increíble en cualquier momento del día.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Barney",
+        "sinopsis": "En su mundo se vuela sin alas, porque la imaginación es el recurso más poderoso. Barney y sus amigos te llevarán a descubrir que la fantasía está esperando en mil aventuras y experiencias llenas de diversión, ¡y no te puedes quedar fuera!",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "El Reino Infantil",
+        "sinopsis": "El Reino Infantil es el canal donde los más pequeños de la casa podrán disfrutar de las mejores canciones, así como de sus personajes favoritos, todo esto las 24hrs del día.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Nickelodeon Clásico",
+        "sinopsis": "Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en Nickelodeon Clásico.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Rugrats",
+        "sinopsis": "La amistad, los sueños y las ganas de seguir descubriendo el mundo en Rugrats.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Nickelodeon Rocket Power",
+        "sinopsis": "En Nickelodeon Rocket Power te divertirás con las aventuras de cuatro amigos amantes de la acción y los deportes extremos. Las 24 horas, todos los días. ¡Justo lo que necesitas para divertirte con Rocket Power!",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Nickelodeon Pluto TV",
+        "sinopsis": "¡Ahora puedes tener tardes llenas de risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Bob Esponja Pantalones Cuadrados",
+        "sinopsis": "Bob Esponja y todos sus amigos llegaron a Pluto TV. Para que te diviertas con todas sus aventuras. Un canal dedicado exclusivamente a la esponja más famosa de la televisión para que lo disfrutes las 24 horas del día.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Los Padrinos Mágicos",
+        "sinopsis": "Timmy es un chico común y corriente. Hasta que un día aparecen sus padrinos mágicos y su vida cambiará completamente. Cosmo y Wanda lo ayudarán con la tarea, a enfrentarse a la malvada niñera y juntos vivirán increíbles aventuras.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Las Tortugas Ninja",
+        "sinopsis": "Cuatro tortugas mutantes fanáticas de la pizza, entrenadas por su maestro ninja, surgirán de las alcantarillas para combatir el crimen y proteger a la ciudad de Manhattan de todo tipo de amenazas.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Pluto TV Kids",
+        "sinopsis": "Todos tienen su espacio de fiesta en Pluto TV Kids. No importa si eres un niño o un niño de corazón, porque la mejor programación para toda la familia está aquí. Ingresa y disfruta las 24 horas, los 7 días de la semana.",
+        "categoria": "Música"
+    },
+    {
+        "titulo": "Pluto TV Anime Kids",
+        "sinopsis": "En Pluto TV Anime Kids encontrarás los mejores animes que divertirán a grandes y chicos. Disfruta de Yu-Gi-Oh!, Bakugan, GGO Football y muchísimos más las 24 horas los 365 días del año. La mejor animación de oriente está en este canal.",
+        "categoria": "Música"
+    }
+]
