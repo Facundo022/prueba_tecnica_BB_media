@@ -6258,100 +6258,205 @@
         "informacion adicional": "R, Drama, 1hr 45 min"
     },
     {
+        "titulo": "Sigue a tu Corazón",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/66ab9bfd970093001349cd2f/details",
+        "sinopsis": "Kathy Yoder ha dejado sus costumbres Amish y es una exitosa escritora de guías de viajes. Cuando Kathy regresa a casa para arreglar los asuntos de su padre, recuerda su vida antes de dejar la comunidad Amish.",
+        "informacion adicional": "TV-G, Romance, 1hr 30 min"
+    },
+    {
+        "titulo": "Hometown Remedy",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/66ab9d5d3653a600136370cf/details",
+        "sinopsis": "Una cirujana regresa a casa para la celebración de la alcaldía de su padre y encuentra un romance con el compasivo médico soltero de la ciudad.",
+        "informacion adicional": "TV-PG, Romance, 1hr 26 min"
+    },
+    {
+        "titulo": "Trust the Man",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/66a7d8a697009300132a4b2c/details",
+        "sinopsis": "Historia de dos parejas de Nueva York: una actriz de éxito está casada con un hombre que, además de no trabajar, es adicto al sexo. El hermano de la actriz es también un vago que sale con una aspirante a novelista.",
+        "informacion adicional": "R, Comedia, 1hr 39 min"
+    },
+    {
+        "titulo": "CSI: Miami",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/series/63bc1f45a6bb3b001475e802/details",
+        "sinopsis": "David Caruso interpreta a un policía de homicidios de la científica en este drama repleto de acción sobre crimen y castigo en el paraíso tropical de Florida.",
+        "informacion adicional": "TV-14, Drama, 4 Temporadas Disponibles"
+    },
+    {
+        "titulo": "Ginger & Rosa",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/65bba3e55884b40013de06cc/details",
+        "sinopsis": "De la aclamada directora Sally Potter viene un elenco (Annette Bening, Christina Hendricks & Oliver Platt) que cuenta la historia dos mejores amigos (Elle Fanning & Alice Englert).",
+        "informacion adicional": "PG-13, Drama, 1hr 30 min"
+    },
+    {
+        "titulo": "As Told by Ginger",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/series/60a5622b72e8e300148d7d08/details",
+        "sinopsis": "Ginger Foutley, alumna de sexto grado, tiene un pie en el mundo de su infancia y el otro en el aterrador pero emocionante reino de la escuela secundaria.",
+        "informacion adicional": "TV-PG, Familia, 3 Temporadas Disponibles"
+    },
+    {
+        "titulo": "The English Teacher",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/5f7357c776c54900134c3633/details",
+        "sinopsis": "Linda, una profesora de inglés cuya reprimida vida personal convive con un marcado contraste con la pasión que lleva al salón de clases. Su vida cambia cuando el alumno estrella regresa a su pueblo tras fracasar como dramaturgo.",
+        "informacion adicional": "R, Comedia, 1hr 31 min"
+    },
+    {
+        "titulo": "Pretty in Pink",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/5e6153757ac957001af5e798/details",
+        "sinopsis": "Ella es una chica de la secundaria del lado equivocado de la ciudad. Él es el galán rico que la invita al baile de graduación. Pero con la misma velocidad que crece su romance, crece la amenaza de la dolorosa presión de los pares.",
+        "informacion adicional": "PG-13, Romance, 1hr 36 min"
+    },
+    {
+        "titulo": "Magic in the Moonlight",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/6548fb3aa61c2a001bfcdc95/details",
+        "sinopsis": "Es una comedia romántica que cuenta la historia de un hombre ingles traido para desenmascarar a una posible estafa. Sobrevienen complicaciones personales y profesionales.",
+        "informacion adicional": "TV-14, Romance, 1hr 37 min"
+    },
+    {
+        "titulo": "The Wild Thornberrys",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/series/5e29cad3d5346a9b8e714610/details",
+        "sinopsis": "Los Thornberrys son una familia que viaja por el mundo filmando documentales sobre la vida salvaje. Siempre se encuentran con aventuras increíbles porque Eliza, la hija de 12 años, tiene un secreto: ella puede hablar con los animales.",
+        "informacion adicional": "G, Familia, 6 Temporadas Disponibles"
+    },
+    {
+        "titulo": "El árbol de la vida",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/6310fba36e998c00133133e8/details",
+        "sinopsis": "La historia de una familia en Waco, Texas en 1956. El hijo mayor es testigo de la pérdida de la inocencia y lucha con las enseñanzas contradictorias de sus padres.",
+        "informacion adicional": "PG-13, Drama, 2hr 18 min"
+    },
+    {
+        "titulo": "La Desaparición de Eleanor Rigby: Ellos",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/5f11bccfefe562001368eab0/details",
+        "sinopsis": "Conor y Eleanor están felizmente casados pero de repente se encuentran como extraños deseando entenderse a raíz de una gran tragedia que golpea sus vidas.",
+        "informacion adicional": "R, Romance, 2hr 2 min"
+    },
+    {
+        "titulo": "El Placer de Su Compañia",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/641c70834f1ca3001a878741/details",
+        "sinopsis": "Un chico le propone matrimonio a su novia, que cae muerta. Su mejor amiga intenta que salga con otras mujeres, pero él solo habla de su gran amor muerto.",
+        "informacion adicional": "TV-14, Comedia, 1hr 31 min"
+    },
+    {
+        "titulo": "Yo vi al Diablo",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/60de1f992553f30013be5282/details",
+        "sinopsis": "Tras sufrir un grave accidente, una mujer embarazada y su marido se mudan a un viñedo con el objetivo de recuperar su estabilidad emocional. Allí, ella empieza a sufrir alucinaciones y visiones cada vez más reales.",
+        "informacion adicional": "R, Thriller, 1hr 22 min"
+    },
+    {
+        "titulo": "El Jardín Secreto",
+        "categoria": "Fin de Semana del Pelirrojo",
+        "url": "https://pluto.tv/latam/on-demand/movies/6474b180274ca8001a43ef9b/details",
+        "sinopsis": "Esta es una versión futurista y moderna del clásico cuento de Frances Hodgson Burnett, El jardín secreto, con la adolescente huérfana Mary Lennox descubriendo la magia y el misterio del jardín secreto.",
+        "informacion adicional": "PG-13, Familia, 1hr 30 min"
+    },
+    {
         "titulo": "La Chica de mis Sueños",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/64132abf3603f9001a16b41c/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/64132abf3603f9001a16b41c/details?lang=en",
         "sinopsis": "La estafadora Rosalyn Willoughby en Hollywood y el titiritero Fletcher McBracken en San Antonio tienen el mismo sueño, que los une. Él viaja a Los Ángeles para encontrarla, pero al principio ella se resiste.",
         "informacion adicional": "TV-14, Romance, 1hr 50 min"
     },
     {
         "titulo": "Código De Honor",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/5e5d43ce4698db001ab20b57/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/5e5d43ce4698db001ab20b57/details?lang=en",
         "sinopsis": "Después de conseguir una beca para un primario privado exclusivo, David Greene se convierte en un deportista estrella y gana la atención de una bella debutante.",
         "informacion adicional": "PG-13, Drama, 1hr 47 min"
     },
     {
         "titulo": "La Armadura de Dios",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/5f9af29a397eee001abb24ef/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/5f9af29a397eee001abb24ef/details?lang=en",
         "sinopsis": "La ex novia de Asian Hawk (Jackie Chan), una cazadora de tesoros y su mejor amiga actual son secuestradas por villanos. Para ayudar a rescatarla, tendrá que encontrar la Armadura de Dios, que hace que quien la lleve sea invencible.",
         "informacion adicional": "TV-14, Acción y Aventura, 1hr 38 min"
     },
     {
         "titulo": "Operación Condor - La Armadura de Dios 2",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/5fa95cd39d991c001a9ccae9/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/5fa95cd39d991c001a9ccae9/details?lang=en",
         "sinopsis": "Jackie, un talentoso cazador de tesoros, es contratado para recuperar 240 toneladas de oro que un comandante alemán, Hans von Katterling, y su regimiento enterraron en el desierto del Sahara antes del final de la Segunda Guerra Mundial.",
         "informacion adicional": "TV-14, Acción y Aventura, 1hr 47 min"
     },
     {
         "titulo": "Autopista al Cielo",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/series/64a2d190fdd8620013ec4b5e/details",
+        "url": "https://pluto.tv/latam/on-demand/series/64a2d190fdd8620013ec4b5e/details?lang=en",
         "sinopsis": "\"Autopista al Cielo\" sigue a un ángel en prueba enviado de regreso a la Tierra quien hace equipo con un ex policía para ayudar a las personas.",
-        "informacion adicional": "TV-PG, Drama, 5 Temporadas Disponibles"
+        "informacion adicional": "TV-PG, Drama, 5 Seasons Available"
     },
     {
         "titulo": "Una Acción Civil",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/62f523dd6df8ae001a027bb8/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/62f523dd6df8ae001a027bb8/details?lang=en",
         "sinopsis": "Jan es abogado de lesión personal que solo acepta casos grandes en los que puede llegar a un acuerdo fuera de la corte. Su último caso parece simple, pero se volverá una batalla épica, una por la que estará dispuesto a arriesgar su carrera.",
         "informacion adicional": "PG-13, Drama, 1hr 55 min"
     },
     {
         "titulo": "Wish Upon a Star",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/60195a8a50e458001a7b5170/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/60195a8a50e458001a7b5170/details?lang=en",
         "sinopsis": "En este clásico culto, Hayley Wheaton (Danielle Harris) desea cambiar de lugar con su hermana, la mayor y más popular Alexia (Katherine Heigl). Tras una pelea entre las hermanas, ellas despiertan un día a ver que el sueño se ha hecho realidad.",
         "informacion adicional": "TV-Y, Familia, 1hr 29 min"
     },
     {
         "titulo": "Un Precio Superior Al de Los Rubíes",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/64021c52653b4e0013096591/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/64021c52653b4e0013096591/details?lang=en",
         "sinopsis": "La vida de Sonia, una joven de una comunidad judía ortodoxa de Nueva York, da un vuelco cuando su rebeldía y coraje para enfrentar -y romper- las reglas de su sociedad patriarcal, le cuestan su trabajo y la custodia de su hijo.",
         "informacion adicional": "TV-14, Romance, 1hr 51 min"
     },
     {
         "titulo": "Celebrity",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/64f5ecbdc5645000133159e2/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/64f5ecbdc5645000133159e2/details?lang=en",
         "sinopsis": "Las vidas de los miembros de un matrimonio roto difieren drásticamente tras el divorcio.",
         "informacion adicional": "R, Drama, 1hr 53 min"
     },
     {
         "titulo": "Hombre Peligroso",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/60c8abbe36537d001332092c/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/60c8abbe36537d001332092c/details?lang=en",
         "sinopsis": "Tras cumplir seis años en prisión por un crimen que no había cometido, Shane Daniels es absuelto con una disculpa del Estado de Arizona. Shane debe luchar a su manera en un país corrupto y asegurarse de que la chica salga con vida.",
         "informacion adicional": "R, Crimen, 1hr 34 min"
     },
     {
         "titulo": "Atraccion Mortal",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/64764223662d03001b22197d/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/64764223662d03001b22197d/details?lang=en",
         "sinopsis": "Tres chicas dictan las normas y costumbres en una universidad americana. Pero la dictadura del trío se ve amenazada por la llegada de una nueva estudiante con el porte de James Dean y el sarcasmo de Marlon Brando.",
         "informacion adicional": "TV-G, Comedia, 1hr 43 min"
     },
     {
         "titulo": "Vírgenes suicidas",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/62fcebfe3568a9001bbc7af7/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/62fcebfe3568a9001bbc7af7/details?lang=en",
         "sinopsis": "A mediados de los '70, en una tranquila comunidad de Michigan, viven las hermanas Lisbon, cinco adolescentes cuya belleza ha cautivado a un grupo de muchachos del pueblo.",
         "informacion adicional": "R, Drama, 1hr 37 min"
     },
     {
         "titulo": "El incomprendido",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/60ca4315d67d6200131c3909/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/60ca4315d67d6200131c3909/details?lang=en",
         "sinopsis": "Al trabajar en problemas derivados de su pasado, Tom Warshaw, un artista estadounidense que vive en París, comienza a descubrir quién es realmente y regresa a su casa para reconciliarse con su familia y amigos.",
         "informacion adicional": "TV-14, Drama, 1hr 37 min"
     },
     {
         "titulo": "Volver a morir",
         "categoria": "Viaje por las Décadas",
-        "url": "https://pluto.tv/latam/on-demand/movies/5e5d7970e3406e0013955ecb/details",
+        "url": "https://pluto.tv/latam/on-demand/movies/5e5d7970e3406e0013955ecb/details?lang=en",
         "sinopsis": "Una mujer que ha perdido la memoria se encuentra con un detective privado que la ayuda a rastrear su identidad, pero él pronto descubre que ambos podrían tener una conexión de vidas pasadas que pone en peligro sus vidas.",
         "informacion adicional": "R, Thriller, 1hr 47 min"
     },
